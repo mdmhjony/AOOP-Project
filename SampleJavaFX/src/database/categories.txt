@@ -1,0 +1,6 @@
+1###Motherboard
+2###Processor
+3###Ram
+4###Hard Disk
+5###Monitor
+6###Mouse
